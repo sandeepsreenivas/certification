@@ -11605,7 +11605,7 @@ a.text-dark:hover, a.text-dark:focus {
     border-color: #dee2e6; } }
 
 :root {
-  --back-color:#f4f7fc;
+  --back-color:#ffffff;
   --header-title-color:#353232;
   --para-color: #666;
   --logo-color:#4e4c4c;
